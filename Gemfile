@@ -25,7 +25,7 @@ gem "aws-sdk-s3", require: false
 gem "httparty"
 gem "klaviyo-api-sdk"
 gem "lockbox"
-gem "ransack", "~> 4.1", ">= 4.1.1"
+gem "ransack", "~> 4.3"
 gem "rqrcode"
 gem "rubocop", require: false
 gem "rubocop-rails", require: false
